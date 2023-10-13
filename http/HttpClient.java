@@ -1,4 +1,4 @@
-package dev.upio.mcpauth.utils.http;
+package dev.upio.utils.http;
 
 import java.io.*;
 import java.net.HttpURLConnection;
