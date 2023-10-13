@@ -1,4 +1,4 @@
-package dev.upio.mcpauth.utils.http;
+package dev.upio.utils.http;
 
 import java.net.URI;
 import java.util.HashMap;
